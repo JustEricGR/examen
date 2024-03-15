@@ -1,0 +1,17 @@
+if = daca
+yes = da
+no =nu
+left= stanga
+right= dreapta
+cat = pisica
+dog = caine
+boy = baiat
+girl=fata
+up=sus
+down = jos
+mirror = oglinda
+car = masina
+towel= prosop  toy = jucarie
+beach = plaja
+sea = mare
+sand = nisip

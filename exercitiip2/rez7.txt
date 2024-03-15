@@ -1,0 +1,13 @@
+Pt coeficientii 1,3,2 solutia este:-1.0000 si 0.0000, prima distanta:1 si a doua:0
+Pt coeficientii 5,3,8 solutia e complexa.
+Pt coeficientii 3,5,1 solutia este:-2.0917 si 0.0000, prima distanta:2 si a doua:0
+Pt coeficientii 9,4,3 solutia e complexa.
+Pt coeficientii 2,4,5 solutia e complexa.
+Pt coeficientii 1,8,0 solutia este:0.0000 si 0.0000, prima distanta:0 si a doua:0
+Pt coeficientii 2,12,5 solutia este:-1.8020 si 0.0000, prima distanta:1 si a doua:0
+Pt coeficientii 2,4,6 solutia e complexa.
+Pt coeficientii 3,12,45 solutia e complexa.
+Pt coeficientii 6,15,5 solutia este:-14.2591 si 0.0000, prima distanta:14 si a doua:0
+Pt coeficientii 20,40,2 solutia este:-20.5267 si 0.0000, prima distanta:20 si a doua:0
+Pt coeficientii 2,53,12 solutia este:-0.9135 si 0.0000, prima distanta:0 si a doua:0
+Pt coeficientii 32,100,12 solutia este:-128.0000 si 0.0000, prima distanta:128 si a doua:0
